@@ -28,3 +28,6 @@ Enviar uma requisição POST para o endpoint de cadastro de usuário com os segu
 
 ## Pós-condição:
 O usuário usuario_teste@example.com está registrado no sistema e pode realizar login com as credenciais fornecidas.
+
+## Conclusão
+O teste foi bem-sucedido, confirmando que o sistema permite o cadastro de usuários com email e senha válidos, processa e armazena os dados corretamente, e redireciona o usuário para a página de login após o cadastro.
